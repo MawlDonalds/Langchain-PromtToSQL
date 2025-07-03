@@ -22,7 +22,7 @@ class SQLCaptureCallback(BaseCallbackHandler):
         return self.sql_query
 
 # Konfigurasi API Key Google (hardcoded)
-google_api_key = "AIzaSyCg9s6LVrv5_z14QwAaGJnpYMIDU0lIjXc"  # Pastikan ini API key Anda
+google_api_key = "AIzaSyCg9s6LVrv5_z14QwAaGJnpYMIDU0lIjXc"
 if not google_api_key:
     raise ValueError("GOOGLE_API_KEY belum diatur")
 
