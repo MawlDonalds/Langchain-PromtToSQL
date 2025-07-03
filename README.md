@@ -4,7 +4,7 @@ Kode untuk mencoba langchain untuk kebutuhan memvisualisasikan data tanpa query 
 ## Instalasi dan setup
 1. Clone Repository
 ```
-  git clone 
+  git clone https://github.com/MawlDonalds/Langchain-PromtToSQL.git
 ```
 3. buka terminal dan masukan sintax dibawah untuk menginstall requirement yang diperlukan
 ```
@@ -31,3 +31,6 @@ pip install -r requirementes.txt
 ```
   python main2.py
 ```
+
+--- 
+*TERIMAKASIH SELAMAT MENCOBA*
