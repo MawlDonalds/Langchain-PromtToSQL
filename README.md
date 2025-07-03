@@ -6,7 +6,7 @@ Kode untuk mencoba langchain untuk kebutuhan memvisualisasikan data tanpa query 
 ```
   git clone https://github.com/MawlDonalds/Langchain-PromtToSQL.git
 ```
-3. buka terminal dan masukan sintax dibawah untuk menginstall requirement yang diperlukan
+2. buka terminal dan masukan sintax dibawah untuk menginstall requirement yang diperlukan
 ```
 pip install -r requirementes.txt
 ```
